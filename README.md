@@ -34,10 +34,6 @@ const data = 'ROLE,ACTOR,BIRTHDAY\n'
 passIt(data, { download: 'cast.csv' })
 ```
 
-## Warning
-
-Each call will produce `Object URL`, which will released only if option `revoke` is settled up.
-
 ## License
 
 MIT
