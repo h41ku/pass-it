@@ -1,6 +1,6 @@
 # pass-it
 
-This package contains functions which helps to pass some data to browser or suggest download it as file.
+This package contains a function, which helps to pass some data to browser or suggest download it as file.
 
 ## Install
 
