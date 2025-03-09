@@ -1,6 +1,6 @@
 {
   "name": "pass-it",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This package contains a function, which helps to pass some data to browser or suggest download it as file.",
   "type": "module",
   "main": "src/index.js",
